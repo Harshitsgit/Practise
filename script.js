@@ -6,3 +6,4 @@ function giveInfo() {
 }
 
 const demo = "";
+console.log(demo);
